@@ -1,0 +1,11 @@
+{
+    "Format": "1.23.0",
+    "Changes": [
+        {
+            "LogName": "Abigail - Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Abigail",
+            "FromFile": "Assets/abigail_test.png"
+          }
+    ]
+}
