@@ -4,6 +4,7 @@
     "Version": "0.2",
     "Description": "Replace the portraits of all villagers.",
     "UniqueID": "ffsouRuka.VillagerPortaits",
+    "UpdateKeys": [ "GitHub:kklfion/StardewValleyVillagerPortraits" ],
     "ContentPackFor": {
       "UniqueID": "Pathoschild.ContentPatcher"
     }
