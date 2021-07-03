@@ -18,6 +18,12 @@
             "Action": "Load",
             "Target": "Portraits/Emily",
             "FromFile": "Assets/emily_sheet.png"
+          },
+          {
+            "LogName": "Emily - Beach Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Emily_Beach",
+            "FromFile": "Assets/emily_beach_sheet.png"
           }
     ]
 }
