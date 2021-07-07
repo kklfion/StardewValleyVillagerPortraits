@@ -24,6 +24,12 @@
             "Action": "Load",
             "Target": "Portraits/Emily_Beach",
             "FromFile": "Assets/emily_beach_sheet.png"
+          },
+          {
+            "LogName": "Haley - Normal Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Haley",
+            "FromFile": "Assets/haley_sheet.png"
           }
     ]
 }
