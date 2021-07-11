@@ -30,6 +30,13 @@
             "Action": "Load",
             "Target": "Portraits/Haley",
             "FromFile": "Assets/haley_sheet.png"
+          },
+          {
+            "LogName": "Haley - Beach Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Haley_Beach",
+            "FromFile": "Assets/haley_beach_sheet.png"
           }
+
     ]
 }
