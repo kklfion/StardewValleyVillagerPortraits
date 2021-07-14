@@ -1,7 +1,7 @@
 {
     "Name": "ffsouRuka's Villager Portraits Mod",
     "Author": "ffsouRuka",
-    "Version": "0.1.6",
+    "Version": "0.1.7",
     "Description": "Replace the portraits of all villagers.",
     "UniqueID": "ffsouRuka.VillagerPortaits",
     "UpdateKeys": [ "GitHub:kklfion/StardewValleyVillagerPortraits" ],
