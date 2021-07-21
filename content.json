@@ -42,6 +42,12 @@
             "Action": "Load",
             "Target": "Portraits/Leah",
             "FromFile": "Assets/leah_sheet.png"
+          },
+          {
+            "LogName": "Leah - Beach Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Leah",
+            "FromFile": "Assets/leah_beach_sheet.png"
           }
 
     ]
