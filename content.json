@@ -46,7 +46,7 @@
           {
             "LogName": "Leah - Beach Portrait",
             "Action": "Load",
-            "Target": "Portraits/Leah",
+            "Target": "Portraits/Leah_Beach",
             "FromFile": "Assets/leah_beach_sheet.png"
           }
 
