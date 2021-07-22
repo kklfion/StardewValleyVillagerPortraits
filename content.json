@@ -48,7 +48,12 @@
             "Action": "Load",
             "Target": "Portraits/Leah_Beach",
             "FromFile": "Assets/leah_beach_sheet.png"
+          },
+          {
+            "LogName": "Maru - Nromal Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Maru",
+            "FromFile": "Assets/maru_sheet.png"
           }
-
     ]
 }
