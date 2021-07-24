@@ -54,6 +54,18 @@
             "Action": "Load",
             "Target": "Portraits/Maru",
             "FromFile": "Assets/maru_sheet.png"
+          },
+          {
+            "LogName": "Maru - Nurse Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Maru_Hospital",
+            "FromFile": "Assets/maru_nurse_sheet.png"
+          },
+          {
+            "LogName": "Maru - Beach Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Maru_Beach",
+            "FromFile": "Assets/maru_beach_sheet.png"
           }
     ]
 }
