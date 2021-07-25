@@ -66,6 +66,12 @@
             "Action": "Load",
             "Target": "Portraits/Maru_Beach",
             "FromFile": "Assets/maru_beach_sheet.png"
+          },
+          {
+            "LogName": "Penny - Normal Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Penny",
+            "FromFile": "Assets/penny_sheet.png"
           }
     ]
 }
