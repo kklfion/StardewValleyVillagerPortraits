@@ -72,6 +72,12 @@
             "Action": "Load",
             "Target": "Portraits/Penny",
             "FromFile": "Assets/penny_sheet.png"
+          },
+          {
+            "LogName": "Penny - Beach Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Penny",
+            "FromFile": "Assets/penny_beach_sheet.png"
           }
     ]
 }
