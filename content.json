@@ -78,6 +78,12 @@
             "Action": "Load",
             "Target": "Portraits/Penny_Beach",
             "FromFile": "Assets/penny_beach_sheet.png"
+          },
+          {
+            "LogName": "Alex - Normal Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Alex",
+            "FromFile": "Assets/alex_sheet.png"
           }
     ]
 }
