@@ -84,6 +84,12 @@
             "Action": "Load",
             "Target": "Portraits/Alex",
             "FromFile": "Assets/alex_sheet.png"
+          },
+          {
+            "LogName": "Alex - Beach Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Alex_Beach",
+            "FromFile": "Assets/alex_beach_sheet.png"
           }
     ]
 }
