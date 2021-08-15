@@ -92,10 +92,10 @@
             "FromFile": "Assets/alex_beach_sheet.png"
           },
           {
-            "LogName": "Elliot - Normal Portrait",
+            "LogName": "Elliott - Normal Portrait",
             "Action": "Load",
-            "Target": "Portraits/Elliot",
-            "FromFile": "Assets/elliot_sheet.png"
+            "Target": "Portraits/Elliott",
+            "FromFile": "Assets/elliott_sheet.png"
           }
     ]
 }
