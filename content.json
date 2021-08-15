@@ -94,7 +94,7 @@
           {
             "LogName": "Elliot - Normal Portrait",
             "Action": "Load",
-            "Target": "Portraits/Alex",
+            "Target": "Portraits/Elliot",
             "FromFile": "Assets/elliot_sheet.png"
           }
     ]
