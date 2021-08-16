@@ -96,6 +96,12 @@
             "Action": "Load",
             "Target": "Portraits/Elliott",
             "FromFile": "Assets/elliott_sheet.png"
+          },
+          {
+            "LogName": "Elliott - Beach Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Elliott_Beach",
+            "FromFile": "Assets/elliott_beach_sheet.png"
           }
     ]
 }
