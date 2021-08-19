@@ -102,6 +102,12 @@
             "Action": "Load",
             "Target": "Portraits/Elliott_Beach",
             "FromFile": "Assets/elliott_beach_sheet.png"
+          },
+          {
+            "LogName": "Harvey - Normal Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Harvey",
+            "FromFile": "Assets/harvey_sheet.png"
           }
     ]
 }
