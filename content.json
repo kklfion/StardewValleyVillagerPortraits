@@ -108,6 +108,12 @@
             "Action": "Load",
             "Target": "Portraits/Harvey",
             "FromFile": "Assets/harvey_sheet.png"
+          },
+          {
+            "LogName": "Harvey - Beach Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Harvey_Beach",
+            "FromFile": "Assets/harvey_beach_sheet.png"
           }
     ]
 }
