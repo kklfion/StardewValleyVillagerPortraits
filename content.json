@@ -116,10 +116,16 @@
             "FromFile": "Assets/harvey_beach_sheet.png"
           },
           {
-            "LogName": "Sam - normal Portrait",
+            "LogName": "Sam - Normal Portrait",
             "Action": "Load",
             "Target": "Portraits/Sam",
             "FromFile": "Assets/sam_sheet.png"
+          },
+          {
+            "LogName": "Sam - Normal Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Sam_Beach",
+            "FromFile": "Assets/sam_beach_sheet.png"
           }
     ]
 }
