@@ -132,6 +132,12 @@
             "Action": "Load",
             "Target": "Portraits/Sebastian",
             "FromFile": "Assets/sebastian_sheet.png"
+          },
+          {
+            "LogName": "Sebastian - Beach Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Sebastian_Beach",
+            "FromFile": "Assets/sebastian_beach_sheet.png"
           }
     ]
 }

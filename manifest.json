@@ -1,8 +1,8 @@
 {
     "Name": "ffsouRuka's Villager Portraits Mod",
     "Author": "ffsouRuka",
-    "Version": "0.2.4",
-    "Description": "Replace the portraits of all villagers.",
+    "Version": "0.2.5",
+    "Description": "Replace the portraits of most bachelors and bachelorettes.",
     "UniqueID": "ffsouRuka.VillagerPortaits",
     "UpdateKeys": [ "GitHub:kklfion/StardewValleyVillagerPortraits" ],
     "ContentPackFor": {
