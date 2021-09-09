@@ -138,6 +138,12 @@
             "Action": "Load",
             "Target": "Portraits/Sebastian_Beach",
             "FromFile": "Assets/sebastian_beach_sheet.png"
+          },
+          {
+            "LogName": "Shane - Normal Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Shane",
+            "FromFile": "Assets/shane_sheet.png"
           }
     ]
 }
